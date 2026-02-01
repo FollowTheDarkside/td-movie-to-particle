@@ -7,9 +7,10 @@
 A repository for converting video to particles using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is [here](https://youtu.be/xj5TGRcAFHs).
-<br>
-<br>
+
+Demo:
+- [Shush You](https://youtu.be/xj5TGRcAFHs?si=7IgsxR4jIEB3u0YQ)
+- [Hiroshima Depth Point Cloud](https://youtu.be/vHmeLXfvUQ4?si=F1BgMwhEl_0xpaJN)
 
 Reference:
 - [映像音響処理概説 2018 - 第十一回](http://satoruhiga.com/TDWS2018/day11/)
